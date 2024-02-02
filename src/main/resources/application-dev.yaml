@@ -1,0 +1,16 @@
+ridc:
+  client:
+    url: http://localhost:8220/cs/idcplg
+    http-library: apache3
+  context:
+    user: 
+    password: 
+    time-zone: America/Bogota
+  owcc11g:
+    client:
+      url: http://localhost:16300/urm/idcplg
+      http-library: apache4
+    context:
+      user: 
+      password: 
+      time-zone: America/Bogota

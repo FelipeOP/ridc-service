@@ -1,0 +1,20 @@
+ridc:
+  client:
+    url: 
+    http-library: apache3
+  context:
+    user: 
+    password: 
+    time-zone: America/Bogota
+  owcc11g:
+    client:
+      url: 
+      http-library: apache4
+    context:
+      user: 
+      password: 
+      time-zone: America/Bogota
+
+springdoc:
+  swagger-ui:
+    path: /
